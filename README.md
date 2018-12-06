@@ -1,5 +1,7 @@
 # Comic-Archiver
 
+Macro for renaming/numbering pages and archiving them into comic files.
+
 Run using AutoHotKey.
 Expects to find 7zip in the right-click menu.
 
