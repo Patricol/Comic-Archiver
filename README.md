@@ -2,7 +2,7 @@
 
 Macro for renaming/numbering pages and archiving them into comic files.
 
-Run using AutoHotKey.
+Run using AutoHotkey.
 Expects to find 7zip in the right-click menu.
 
 I'm uploading this as sample of one of the many quick programs I write to automate my own busywork.
